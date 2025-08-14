@@ -1,6 +1,6 @@
-import { BusArrivalCard } from "@/components/BusArrivalCard";
-import { BusStopHeader } from "@/components/BusStopHeader";
-import { useBusArrivals } from "@/hooks/useBusArrivals";
+import { BusArrivalCard } from "../components/BusArrivalCard";
+import { BusStopHeader } from "../components/BusStopHeader";
+import { useBusArrivals } from "../hooks/useBusArrivals";
 import { Alert, AlertDescription } from "@/components/ui/alert";
 import { AlertTriangle } from "lucide-react";
 
